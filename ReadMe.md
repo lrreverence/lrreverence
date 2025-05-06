@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a price monitoring platform for common goods in the Philippines.<br>👯 I’m looking to collaborate on full-stack web projects and explore data science, machine learning, and AI.<br>🤝 I’m looking for help with integrating AI/ML into real-world systems across various domains.<br>🌱 I’m currently learning edge AI, LLM fine-tuning, TypeScript with React & Next.js, and scalable backend systems with Node.js and Python.<br>🚀 I’m also looking for opportunities to expand my skills and grow as a developer in AI or full-stack roles.<br>💬 Feel free to reach out if you want to collaborate or chat about tech!
+🔭 I’m currently working on a price monitoring platform for common goods in the Philippines.<br>👯 I’m looking to collaborate on full-stack web projects and explore data science, machine learning, and AI.<br>🌱 I’m currently learning edge AI, LLM fine-tuning, TypeScript with React & Next.js, and scalable backend systems with Node.js and Python.<br>🚀 I’m also looking for opportunities to expand my skills and grow as a developer in AI or full-stack roles.<br>💬 Feel free to reach out if you want to collaborate or chat about tech!
 
 
 ## 🌐 Socials:
